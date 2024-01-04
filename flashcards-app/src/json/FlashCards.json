@@ -1,0 +1,12 @@
+{
+  "flashcards": [
+    {
+      "question": "Who wrote 'Romeo and Juliet' ?",
+      "answer": "William Shakespeare",
+      "createdAt": "2024-01-04T12:15:00",
+      "updatedAt": 1704330833138,
+      "status": "Noted",
+      "id": 2
+    }
+  ]
+}
